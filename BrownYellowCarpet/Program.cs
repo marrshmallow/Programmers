@@ -2,7 +2,7 @@
 
 public class Solution
 {
-    public int[] solutison(int brown, int yellow)
+    public int[] solution(int brown, int yellow)
     {
         int[] answer = new int[] {};
         if (brown <= 8 || 5000 < brown || yellow <= 0 || 2000000 < yellow)
