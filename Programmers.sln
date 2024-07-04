@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchCenterValue", "FetchCe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintString", "PrintString\PrintString.csproj", "{4821D97F-F1A8-41ED-BCAF-B777DD44557B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrownYellowCarpet", "BrownYellowCarpet\BrownYellowCarpet.csproj", "{2CC39DE7-252E-4AA2-B166-04F4E71366B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{4821D97F-F1A8-41ED-BCAF-B777DD44557B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4821D97F-F1A8-41ED-BCAF-B777DD44557B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4821D97F-F1A8-41ED-BCAF-B777DD44557B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC39DE7-252E-4AA2-B166-04F4E71366B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC39DE7-252E-4AA2-B166-04F4E71366B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC39DE7-252E-4AA2-B166-04F4E71366B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC39DE7-252E-4AA2-B166-04F4E71366B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
