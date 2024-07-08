@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintString", "PrintString\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrownYellowCarpet", "BrownYellowCarpet\BrownYellowCarpet.csproj", "{2CC39DE7-252E-4AA2-B166-04F4E71366B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinatoryLogic", "CombinatoryLogic\CombinatoryLogic.csproj", "{12B9F4A0-661A-4ACD-98F8-25EED9F953BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{2CC39DE7-252E-4AA2-B166-04F4E71366B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CC39DE7-252E-4AA2-B166-04F4E71366B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CC39DE7-252E-4AA2-B166-04F4E71366B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B9F4A0-661A-4ACD-98F8-25EED9F953BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B9F4A0-661A-4ACD-98F8-25EED9F953BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B9F4A0-661A-4ACD-98F8-25EED9F953BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B9F4A0-661A-4ACD-98F8-25EED9F953BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
